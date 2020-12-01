@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cac2331ad0e1eba44a0275da9d404447
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Zombie3: {fileID: 1104902678188443744, guid: bbfd6c4f9d9ed21478f1784514740dd1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

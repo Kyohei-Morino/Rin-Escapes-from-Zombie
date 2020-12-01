@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21f9fbc4168c767489fa6ee3add6f189
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rin: {fileID: 2131671491512415921, guid: c39b804932d48de4d8331f2b5f9061be, type: 3}
+  - zombie: {fileID: 3369518721276675717, guid: bbfd6c4f9d9ed21478f1784514740dd1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
